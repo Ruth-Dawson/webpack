@@ -13,3 +13,4 @@ document.body.appendChild(component());
 
 // 依赖css
 require('./sass/style.scss');
+
